@@ -1,4 +1,4 @@
-# interview-creation-portal
+# Interview-Creation-Portal
 Interview Creation Portal
 The webapp full fills the following requirements
 Basic Requirements
