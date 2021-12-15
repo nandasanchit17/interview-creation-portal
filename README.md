@@ -15,13 +15,13 @@ It has a resume upload feature, from where you can upload the resumes and have a
 <p>The resume enetered in stored in the resume folder in the directory and the name of the file is stored in the database.</p>
 
 # Home-Page
-<img src ="http://interview-creation-portal.000webhostapp.com/images/home_page.png ">
+<img src ="http://interview-creation-portal.000webhostapp.com/images/home_page.png">
 <p>This is the home page, where the admin can see the Scheduled Interviews, Modify them, Delete Them and even have a look at the Resume.</p>
 <br>
-<img src = "http://interview-creation-portal.000webhostapp.com/images/schedule_interview.png ">
+<img src = "http://interview-creation-portal.000webhostapp.com/images/schedule_interview.png">
 <p>This is the Interview Scheduling Page, where admin selects from the already added users. (There can me more than 2 users). The admin also selects the start and the end date and time and uploads the combined resume file.<p>
 <br>
-<img src = "http://interview-creation-portal.000webhostapp.com/images/update_page.png ">
+<img src = "http://interview-creation-portal.000webhostapp.com/images/update_page.png">
 <p>This is the update Page where the admin can update the participants, ddate and time and even the resume.</p>
 
   
