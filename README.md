@@ -15,18 +15,16 @@ Interview Creation Portal
 <p>The resume enetered is stored in the resume folder in the directory and the name of the file is stored in the database.</p>
 <p> Even if the file name is same, the system renames the file and stores it in the database. The previous file is not over righted.</p>
 
-<br>
 # Errors
 
-<img scr = "https://interview-creation-portal.000webhostapp.com/images/e1.PNG">
-<p> Following are the list of errors showed.</p>
+<img scr = "http://interview-creation-portal.000webhostapp.com/images/e1.PNG">
+<h2> Following are the list of errors showed.</h2>
 <p>1. Error when start date is before than the current date.</p>
 <p>2. Error when Start Date is After the End Date.</p>
 <p>3. Error when a participant already has a meeting scheduled.</p>
 <p>4. Error when there are Less than 2 participants in a Meeting. </p>
 <p>5. Error when required fields are not filled.</p>
 
-<br>
 # Home-Page
 <img src ="http://interview-creation-portal.000webhostapp.com/images/home_page.png">
 <br>
