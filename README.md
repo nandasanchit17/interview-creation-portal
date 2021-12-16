@@ -17,7 +17,7 @@ Interview Creation Portal
 
 # Errors
 
-<img scr = "https://firebasestorage.googleapis.com/v0/b/bikesharing-8e02b.appspot.com/o/e1.PNG?alt=media&token=82ae147c-a41f-44fb-a559-2a8d8019a562">
+<img scr = "https://firebasestorage.googleapis.com/v0/b/bikesharing-8e02b.appspot.com/o/e1.jpg?alt=media&token=c30c4327-b8e0-4701-b4d4-23619cc79ad2">
 <h2> Following are the list of errors showed.</h2>
 <p>1. Error when start date is before than the current date.</p>
 <p>2. Error when Start Date is After the End Date.</p>
