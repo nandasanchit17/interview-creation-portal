@@ -13,7 +13,7 @@ Interview Creation Portal
 <p>2. It has a resume upload feature, from where you can upload the resumes and have a look at them in the home page.</p>
 
 <p>The resume enetered is stored in the resume folder in the directory and the name of the file is stored in the database.</p>
-<p> Even if the file name is same, the system renames the file and stores it in the database. The previous file is not over righted.</p>
+<p> Even if the file name is same, the system renames the file and stores it in the database. The previous file is not over writed.</p>
 
 # Errors
 <img src = "https://interview-creation-portal.000webhostapp.com/images/e1.PNG">
