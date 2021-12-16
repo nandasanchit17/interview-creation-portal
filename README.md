@@ -16,8 +16,9 @@ Interview Creation Portal
 <p> Even if the file name is same, the system renames the file and stores it in the database. The previous file is not over righted.</p>
 
 # Errors
+<img src = "https://interview-creation-portal.000webhostapp.com/images/e1.PNG">
 <h2> Following are the list of errors showed.</h2>
-<img src = "https://firebasestorage.googleapis.com/v0/b/bikesharing-8e02b.appspot.com/o/e1.jpg?alt=media&token=c30c4327-b8e0-4701-b4d4-23619cc79ad2">
+
 <p>1. Error when start date is before than the current date.</p>
 <p>2. Error when Start Date is After the End Date.</p>
 <p>3. Error when a participant already has a meeting scheduled.</p>
