@@ -17,7 +17,7 @@ Interview Creation Portal
 
 # Errors
 
-<img scr = "http://interview-creation-portal.000webhostapp.com/images/e1.png>
+<img scr = "http://interview-creation-portal.000webhostapp.com/images/e1.png">
 <h2> Following are the list of errors showed.</h2>
 <p>1. Error when start date is before than the current date.</p>
 <p>2. Error when Start Date is After the End Date.</p>
