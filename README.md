@@ -13,16 +13,31 @@ Interview Creation Portal
 <p>2. It has a resume upload feature, from where you can upload the resumes and have a look at them in the home page.</p>
 
 <p>The resume enetered is stored in the resume folder in the directory and the name of the file is stored in the database.</p>
+<p> Even if the file name is same, the system renames the file and stores it in the database. The previous file is not over righted.</p>
 
+<br>
+# Errors
+
+<img scr = "https://interview-creation-portal.000webhostapp.com/images/e1.PNG">
+<p> Following are the list of errors showed.</p>
+<p>1. Error when start date is before than the current date.</p>
+<p>2. Error when Start Date is After the End Date.</p>
+<p>3. Error when a participant already has a meeting scheduled.</p>
+<p>4. Error when there are Less than 2 participants in a Meeting. </p>
+<p>5. Error when required fields are not filled.</p>
+
+<br>
 # Home-Page
 <img src ="http://interview-creation-portal.000webhostapp.com/images/home_page.png">
 <br>
 <p>This is the home page, where the admin can see the Scheduled Interviews, Modify them, Delete Them and even have a look at the Resume.</p>
 <br>
+# Schedule Interviews
 <img src = "http://interview-creation-portal.000webhostapp.com/images/schedule_interview.png">
 <br>
 <p>This is the Interview Scheduling Page, where admin selects from the already added users. (There can me more than 2 users). The admin also selects the start and the end date and time and uploads the combined resume file.<p>
 <br>
+# Update Interviews
 <img src = "http://interview-creation-portal.000webhostapp.com/images/update_page.png">
  <br>
 <p>This is the update Page where the admin can update the participants, date and time and even the resume. After the Interview has been updated, the participants also get an email.</p>
