@@ -17,7 +17,7 @@ Interview Creation Portal
 
 # Errors
 
-<img scr = "http://interview-creation-portal.000webhostapp.com/images/e1.PNG">
+<img scr = "http://interview-creation-portal.000webhostapp.com/images/e1.png>
 <h2> Following are the list of errors showed.</h2>
 <p>1. Error when start date is before than the current date.</p>
 <p>2. Error when Start Date is After the End Date.</p>
@@ -26,7 +26,7 @@ Interview Creation Portal
 <p>5. Error when required fields are not filled.</p>
 
 # Home-Page
-<img src ="http://interview-creation-portal.000webhostapp.com/images/home_page.png">
+<img src = "http://interview-creation-portal.000webhostapp.com/images/home_page.png">
 <br>
 <p>This is the home page, where the admin can see the Scheduled Interviews, Modify them, Delete Them and even have a look at the Resume.</p>
 <br>
